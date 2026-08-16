@@ -1,0 +1,43 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files (DO NOT COMMIT)
+*.jks
+*.keystore
+*.jks.base64
+*.keystore.base64
+release.keystore
+
+# Generated files
+bin/
+gen/
+obj/
+
+# Firebase / Google Services (if you add later)
+# google-services.json
+
+# Misc
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class

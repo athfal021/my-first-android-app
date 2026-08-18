@@ -21,4 +21,4 @@ It's designed for anyone who wants to start a new Android project quickly, with 
 Click the **"Use this template"** button on GitHub to create your own repository from this project, or clone it directly:
 
 ```bash
-git clone https://github.com/your-username/my-compose-template.git
+git clone https://github.com/athfal021/my-first-android-app.git
